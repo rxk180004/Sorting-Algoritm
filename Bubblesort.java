@@ -1,5 +1,5 @@
 package Sorting;
-
+//Bubble sort for sorting of Integers
 public class Bubblesort {
 	
 	public static int[] sort(int[] arr){
